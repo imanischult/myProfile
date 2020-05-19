@@ -9,9 +9,8 @@ img {
     filter: brightness(110%);
 }
 
-.profImg {
-    border-bottom-style: solid;
-    border-color: rgb(94, 103, 179);
-    border-bottom-style: ridge;
-}
-
+/* .profImg {
+    border-top-style: solid;
+    border-color: rgb(190, 192, 209);
+    border-top-style: ridge;
+} */
