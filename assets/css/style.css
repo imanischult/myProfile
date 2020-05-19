@@ -1,0 +1,17 @@
+body {
+    /* background-image: url("../images/wallpaper-images/so-white.png"); */
+    background-color: rgb(255, 255, 255);
+   }
+
+img {
+    border-radius: 1%;
+    box-shadow: 4px 4px 8px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    filter: brightness(110%);
+}
+
+.profImg {
+    border-bottom-style: solid;
+    border-color: rgb(94, 103, 179);
+    border-bottom-style: ridge;
+}
+
