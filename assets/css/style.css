@@ -9,12 +9,16 @@ img {
     filter: brightness(110%);
 }
 
-/* .profImg {
-    border-top-style: solid;
-    border-color: rgb(190, 192, 209);
-    border-top-style: ridge;
-} */
+.ggFont {
+    font-family: 'Numans', sans-serif;
+}
 
 nav {
     background-color: white;
+}
+
+.html {
+    color: rgb(247, 241, 241);
+    font-family: 'DM Mono', monospace;
+    font-size: 32px;
 }
